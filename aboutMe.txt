@@ -1,0 +1,14 @@
+My name is Stevan Stajkovic and I'm a graduate of University of Belgrade.
+I've been writing JavaScript for many years, moving from building web apps with jQuery to React/Vue. 
+Today I mainly use React.js, which I began learning in early 2014. 
+While I specialize in the frontend, I spend a good chunk of my time writing server code. 
+Most of my open-source work is JS library development. 
+I work well in a team environment or alone unsupervised as required. 
+I am experienced in delivering complex projects within short timelines. 
+I always meet my deadlines. 
+If you need someone to bounce your ideas off of in order to develop the best approach, I can help there.
+My experience over the last years includes working on over 100 successful projects with small and medium-sized companies. 
+I can assist in a variety of environments. 
+If you need a Project Lead, I am able to deliver at that level as well. 
+I am a Renaissance Web Developer. 
+Whatever you need in web development, I can deliver it. Thank you.
